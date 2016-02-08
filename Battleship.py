@@ -42,4 +42,6 @@ for turn in range(4):
     
     turn=turn+1
     print turn
+    if turn==4:
+        print "Game Over"
         
